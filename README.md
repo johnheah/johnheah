@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @johnheah
-- 👀 I’m interested in data science, python
-- 🌱 I’m currently learning tableau
-- 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me johnheah@hotmail.com
+- 👀 I’m interested in data science, python, machine learning
+- 🌱 I’m currently learning python, tableau, power BI, SQL, KNIME, Orange
+- 💞️ I’m looking to collaborate on data science and machine learning projects
+- 📫 How to reach me heahkl@gmail.com or johnheah@hotmail.com
 
 <!---
 johnheah/johnheah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
